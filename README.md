@@ -5,23 +5,32 @@ The main purpose of this project is to create  an automatic form with a database
 
 ## Features 
 •	Automated data entry form.
+
 •	Data stored systematically in the structured database sheet.
+
 •	Button for submitting the form, updating the database and reset entries.
+
 •	Basic data validation to ensure clean input.
 
 ## Tool
 •	Microsoft Excel.
+
 •	Excel VBA.
 
 ## How it works
 •	User fills the form fields ( user can only fill the designated fields ).
+
 •	Upon clicking the submit button , the data automatically transferred to database sheet.
+
 •	The form fields get cleared, waiting for another entry.
 
 ## How to use
 •	Open the excel file.
+
 •	Enable macros if prompted.
+
 •	Enter your data into the form fields.
+
 •	Click submit.
 
 ## The form
