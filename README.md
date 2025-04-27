@@ -20,6 +20,8 @@ The main purpose of this project is to create  an automatic form with a database
 ## How it works
 •	User fills the form fields ( user can only fill the designated fields ).
 
+• Fill false for product fields you don't need (I could not use tick box because of my excel version).
+
 •	Upon clicking the submit button , the data automatically transferred to database sheet.
 
 •	The form fields get cleared, waiting for another entry.
